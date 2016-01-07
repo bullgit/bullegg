@@ -42,7 +42,7 @@
       body.style.padding = "0";
       body.style.margin = "0";
       body.style.backgroundColor = "#1393d5";
-      body.style.backgroundImage = "url(http://bullg.it/assets/img/logo.svg)";
+      body.style.backgroundImage = "url(https://bullg.it/media/vectors/bullgit-logo.svg)";
       body.style.backgroundSize = "50%";
       body.style.backgroundRepeat = "no-repeat";
       return body.style.backgroundPosition = "center";
